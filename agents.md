@@ -1,3 +1,5 @@
+# agents.md
+
 ## Design contract (authoritative)
 Before doing ANY UI work (layout, CSS, components, copy hierarchy), you MUST read `design.md`.
 Treat `design.md` as the single source of truth for visual style, tokens, component rules, and bans.
